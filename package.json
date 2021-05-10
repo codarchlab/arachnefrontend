@@ -72,7 +72,7 @@
     "karma-chrome-launcher": "~2.2.0",
     "karma-jasmine": "~1.1.2",
     "karma-ng-html2js-preprocessor": "~1.0.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "node-sass": "^4.13.1",
     "protractor": "~5.4.0",
     "protractor-console-plugin": "~0.1.1",
